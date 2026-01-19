@@ -1,7 +1,7 @@
 # Personal Expense Analysis
 
 ## Project Overview
-]Analyzed my personal transaction data to identify spending trends, summarize expense categories, and generate actionable insights using **Excel and data visualization**. This project demonstrates my ability to manage data integrity and perform detailed analytical work.
+Analyzed my personal transaction data to identify spending trends, summarize expense categories, and generate actionable insights using **Excel and data visualization**. This project demonstrates my ability to manage data integrity and perform detailed analytical work.
 
 ## Tools & Skills Applied
 * **Excel:** Pivot Tables, Data Cleaning, and Visualization.
